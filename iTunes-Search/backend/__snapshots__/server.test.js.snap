@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET /favourites returns a snapshot of the favourites list 1`] = `[]`;

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Favourites should render the Favourites component 1`] = `
+<div
+  style="display: flex; flex-direction: column; align-items: center; justify-content: center;"
+>
+  <h4
+    class="MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter css-9zqb3o-MuiTypography-root"
+  >
+    Favourites
+  </h4>
+  <div
+    class="css-1l4w6pd"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+    >
+      No Favourites yet.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+    }
+  }
+>
+  <h4
+    className="MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter css-9zqb3o-MuiTypography-root"
+  >
+    Favourites
+  </h4>
+  <div
+    className="css-1l4w6pd"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+    >
+      No Favourites yet.
+    </p>
+  </div>
+</div>
+`;
